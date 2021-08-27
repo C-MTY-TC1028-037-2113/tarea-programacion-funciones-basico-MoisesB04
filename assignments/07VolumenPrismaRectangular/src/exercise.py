@@ -1,4 +1,6 @@
 # Escribe aquí tus funciones...
+def volumen_prisma(x, y, z): 
+    return x * y * z
 
 def main():
     #escribe tu código abajo de esta línea
@@ -12,3 +14,4 @@ def main():
 
 if __name__=='__main__':
     main()
+
